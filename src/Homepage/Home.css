@@ -1,0 +1,319 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+.body{
+    font-family: "Rubik";
+    background-color: rgb(208, 243, 247);
+    overflow: hidden;
+}
+.row1{
+    margin-left: -8%;
+    margin-right: -9%;
+}
+.nav{
+    font-family: "Rubik";
+    color: black;
+    border-bottom: 1px solid rgb(219, 219, 219);
+}
+.dropcont{
+    width: 100px;
+}
+.img1c{
+    margin-left: 0%;
+}
+.img1{
+    height: 45px;
+    margin-left: -10%;
+}
+.img3{
+    height: 60px;
+    padding: 0px;
+}
+.drop1{
+    width: 900px;
+}
+.navinp{
+    width: 300px;
+}
+.catetxt{
+    text-decoration: none;
+    margin-top: 17px;
+    margin-left: 25px;
+}
+.cat{
+    color: black;
+}
+.deals{
+    margin-right: 20%;
+    color: black;
+}
+.dealstxt{
+    color: black;
+    text-decoration: underline white;
+    margin-left: 10%;
+}
+.search{
+    margin-left: 50%;
+    margin-right: -30%;
+}
+.searchCont{
+    margin-left: 75%;
+}
+.wish{
+    color: red;
+}
+.wishc{
+    margin-left: 33%;
+}
+.cart{
+    color: brown;
+    border: none;
+}
+.cartc{
+    margin-left: 0%;
+    margin-top: 0%;
+}
+.navrow{
+    margin-left: 40%;
+}
+.intro{
+    margin-top: 5%;
+}
+.introcol{
+    height: 400px;
+}
+.img2{
+    height: 110%;
+    margin-left: 10%;
+}
+.t1{
+    font-size: 500%;
+    margin-top: 7%;
+}
+.t2{
+    font-size: 500%;
+    font-weight: 600;
+    margin-top: -8%;
+}
+.t3{
+    font-size: 200%;
+}
+.best{
+    font-size: 40px;
+    font-family: "Rubik";
+    font-weight: 100;
+}
+.sellers{
+    font-size: 40px;
+    font-family: "Rubik";
+    font-weight: 600;
+}
+
+.img15{
+    height: 330px;
+    width: 100%;
+    z-index: -2;
+    
+}
+.product{
+    background-color: rgb(250, 250, 250);
+    font-family: "Rubik";
+    height: 36%;
+    width: 100%;
+    margin-top: -3%;
+    z-index: 1;
+    position: relative;
+    top: -3%;
+    border: 0.1px solid rgb(221, 219, 219);
+    border-top: none;
+}
+
+.playback{
+    background-color: red;
+    font-weight: 500;
+    width: 70%;
+    margin-left: 15%;
+    z-index: 1;
+    position: relative;
+    top: -6%;
+}
+.playbacktxt{
+    margin-left: 22%;
+    font-size: 15px;
+    color: white;
+}
+.img19{
+    height: 30px;
+}
+.heartbc{
+    margin-left: 60%;
+    margin-top: -2%;
+}
+.heartb{
+    border: none;
+    background-color: rgb(250, 250, 250);
+    width: 10%;
+}
+.starsym{
+    margin-left: 3%;
+}
+.det0c{
+    margin-left: -2%;
+    margin-top: 0.5%;
+}
+.det0{
+    font-size: 14px;
+}
+.det1div{
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.det1{
+    font-weight: 700;
+    margin-left: 2%;
+    margin-top: 3%;
+}
+.det234{
+    margin-top: 1%;
+    margin-left: 3%;
+}
+.det2{
+    font-weight: 700;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.det3{
+    font-size: 11px;
+    margin-left: 2%;
+    opacity: 0.7;
+}
+.det4{
+    color: rgb(51, 207, 51);
+    font-weight: 700;
+    font-size: 14px;
+    margin-left: 2%;
+    opacity: 1;
+}
+.cartb{
+    background-color: rgb(26, 32, 36);
+    color: white;
+    border: none;
+    width: 93%;
+    height: 40px;
+    margin-left: 3%;
+    margin-top: 3.5%;
+}
+.starrow{
+    margin-top: -5%;
+}
+.procol2{
+    margin-left: 1%;
+}
+.procol3{
+    margin-left: 1%;
+}
+.procol4{
+    margin-left: 1%;
+}
+.productdiv{
+    padding: 0;
+}
+
+.foot{
+    color: white;
+    margin-top: 10%;
+    margin-left: 0%;
+    margin-bottom: 0%;
+    background-color: black;
+    width: 100%;
+    height: 370px;
+}
+.footrow{
+    margin-top: 8%;
+}
+.footrow h5{
+    margin-bottom: 8%;
+}
+.brands{
+    display: flex;
+    gap: 10px;
+}
+.foot h5
+{
+    color: rgb(2, 182, 252);
+}
+.hoaqua{
+    font-weight: 500;
+    transition-duration: 0.7s;
+}
+.hoaqua:hover{
+    color: rgb(2, 182, 252);
+    cursor: pointer;
+    transform: scale(1.2);
+}
+.c1{
+    margin-left: 8%;
+}
+.hr{
+    color: rgb(2, 182, 252);
+    width: 85%;
+    margin-left: 8%;
+    margin-top: 0%;
+}
+.img1f{
+    height: 45px;
+    margin-left: 16%;
+    margin-top: 1%;
+    cursor: pointer;
+}
+.copyright{
+    margin-left: 38%;
+}
+.news{
+    background-color: rgb(2, 182, 252);
+    width: 83%;
+    color: white;
+    height: 150px;
+    margin-left: 8%;
+    margin-bottom: 0%;
+    margin-top: -32%;
+    z-index: 1;
+}
+.n1{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 5%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+.n2{
+    float: left;
+    font-weight: 600;
+    margin-left:5%;
+    margin-top: -5%;
+}
+.ema{
+    margin-top: 12%;
+}
+.emailb
+{
+    color: rgb(2, 182, 252);
+    border: none;
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    width: 150px;
+    font-weight: 900;
+    margin-left: 65%;
+    margin-top: -12%;
+}
+.emailip
+{
+    border: none;
+    margin-left: 8%;
+    margin-bottom: 0%;
+    margin-top: -2%;
+    height: 40px;
+    width: 55%;
+
+}
+.contnews{
+    margin-right: 20px;
+}

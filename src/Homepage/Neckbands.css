@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+.body{
+    font-family: "Rubik";
+}
+.row1{
+    margin-left: -8%;
+    margin-right: -9%;
+}
+.nav{
+    font-family: "Rubik";
+    color: black;
+}
+.dropcont{
+    width: 100px;
+}
+.img1c{
+    margin-left: -8%;
+}
+.img1{
+    height: 45px;
+    margin-left: 0%;
+}
+.img3{
+    height: 60px;
+    padding: 0px;
+}
+.drop1{
+    width: 900px;
+}
+.navinp{
+    width: 300px;
+}
+.catetxt{
+    margin-top: 17px;
+    margin-left: 25px;
+}
+.cat{
+    color: black;
+}
+.deals{
+    margin-top: 0px;
+    color: black;
+}
+.search{
+    margin-left: 0;
+}
+.wish{
+    color: red;
+}
+.cart{
+    color: brown;
+}
+.navrow{
+    margin-left: 30%;
+}
+.intro{
+    margin-top: 5%;
+}
+.introcol{
+    height: 400px;
+}
+.img22{
+    height: 120%;
+    margin-left: 0%;
+    margin-top: 0%;
+}
+.t12{
+    font-size: 500%;
+    margin-top: 7%;
+    margin-left: -1%;
+    color: rgb(121, 58, 187);
+}
+.t2{
+    font-size: 500%;
+    margin-top: 0%;
+}
+.t11{
+    font-size: 200%;
+}
+.shoppro{
+    margin-left: 0%;
+}
+.best{
+    font-size: 40px;
+    font-family: "Rubik";
+    font-weight: 100;
+}
+.sellers{
+    font-size: 40px;
+    font-family: "Rubik";
+    font-weight: 600;
+}
+
+.img15{
+    height: 330px;
+    width: 100%;
+    z-index: -2;
+    
+}
+.product{
+    background-color: rgb(250, 250, 250);
+    font-family: "Rubik";
+    height: 36%;
+    width: 100%;
+    margin-top: -3%;
+    z-index: 1;
+    position: relative;
+    top: -3%;
+    border: 0.1px solid rgb(221, 219, 219);
+    border-top: none;
+}
+
+.playback1{
+    background-color: red;
+    font-weight: 500;
+    width: 70%;
+    margin-left: 15%;
+    z-index: 1;
+    position: relative;
+    top: -6%;
+}
+.playbacktxt3{
+    margin-left: 23%;
+    font-size: 15px;
+    color: white;
+}
+.img19{
+    height: 30px;
+}
+.heartbc{
+    margin-left: 60%;
+    margin-top: -2%;
+}
+.heartb{
+    border: none;
+    background-color: rgb(250, 250, 250);
+    width: 10%;
+}
+.starsym{
+    margin-left: 3%;
+}
+.det0c{
+    margin-left: -2%;
+    margin-top: 0.5%;
+}
+.det0{
+    font-size: 14px;
+}
+.det1div{
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.det1{
+    font-weight: 700;
+    margin-left: 2%;
+    margin-top: 3%;
+}
+.det234{
+    margin-top: 1%;
+    margin-left: 3%;
+}
+.det2{
+    font-weight: 700;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.det3{
+    font-size: 11px;
+    margin-left: 2%;
+    opacity: 0.7;
+}
+.det4{
+    color: rgb(51, 207, 51);
+    font-weight: 700;
+    font-size: 14px;
+    margin-left: 2%;
+    opacity: 1;
+}
+.cartb{
+    background-color: rgb(26, 32, 36);
+    color: white;
+    border: none;
+    width: 93%;
+    height: 40px;
+    margin-left: 3%;
+    margin-top: 3.5%;
+}
+.starrow{
+    margin-top: -5%;
+}
+.procol2{
+    margin-left: 1%;
+}
+.procol3{
+    margin-left: 1%;
+}
+.procol4{
+    margin-left: 1%;
+}
+.productdiv{
+    padding: 0;
+}

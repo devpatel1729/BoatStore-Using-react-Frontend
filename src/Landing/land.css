@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+.land{
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    font-family: "Rubik";
+}
+.carousel{
+    margin-top: 5%;
+}
+.best1{
+    font-size: 25px;
+    font-weight: 100;
+    margin-left: 2%;
+    font-style: oblique;
+    
+}
+.sellers1{
+    font-size: 25px;
+    font-weight: 500;
+}
+.rs{
+    font-size: 25px;
+    font-weight: 500;
+    text-decoration: underline red;
+}
+.vrow{
+    margin-left: 0.2%;
+}
+.v1{
+    margin-left: 0%;
+}
+.v1txt{
+    font-family: "Rubik";
+    font-size: 130%;
+    margin-left: 25%;
+}
+.banrow{
+    background-color: rgb(232, 216, 201);
+    width: 97%;
+    margin-left: 2%;
+}
+.banimg{
+    height: 100px;
+    margin-left: -170%;
+}
+.bantxt{
+    color: rgb(120, 26, 25);
+    font-size: 200%;
+    margin-top: 2.7%;
+}
+.timer{
+    color: rgb(221, 47, 44);
+    font-size: 200%;   
+    margin-top: 5%;
+    margin-left: -20%;
+}
+
+
+
+
+
+
+
+
+.landpro{
+    height: 75%;
+}
+.hp1{
+    height: 330px;
+    width: 100%;
+    z-index: -2;
+    
+}
+.prodiv{
+    background-color: rgb(250, 250, 250);
+    font-family: "Rubik";
+    height: 26%;
+    width: 100%;
+    margin-top: -3%;
+    z-index: 1;
+    position: relative;
+    top: -3%;
+    border: 0.1px solid rgb(221, 219, 219);
+    border-top: none;
+}
+
+.pback{
+    background-color: rgb(252, 197, 11);
+    font-weight: 500;
+    width: 70%;
+    margin-left: 15%;
+    z-index: 1;
+    position: relative;
+    top: -9%;
+}
+.pbacktxt{
+    margin-left: 22%;
+    font-size: 15px;
+    color: black;
+}
+.starsym{
+    margin-left: 3%;
+}
+.det0c{
+    margin-left: -2%;
+    margin-top: 0.5%;
+}
+.det0{
+    font-size: 14px;
+}
+.det1div{
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.det1{
+    font-weight: 700;
+    margin-left: 2%;
+    margin-top: 3%;
+}
+.det234{
+    margin-top: 1%;
+    margin-left: 3%;
+}
+.det2{
+    font-weight: 700;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.det3{
+    font-size: 11px;
+    margin-left: 2%;
+    opacity: 0.7;
+}
+.det4{
+    color: rgb(51, 207, 51);
+    font-weight: 700;
+    font-size: 13px;
+    margin-left: 2%;
+    opacity: 1;
+}
+.cartbland{
+    background-color: red;
+    color: white;
+    border: none;
+    width: 93%;
+    height: 40px;
+    margin-left: 0%;
+    margin-top:7%;
+}
+.starrow{
+    margin-top: -5%;
+}
+.procol2{
+    margin-left: 1%;
+}
+.procol3{
+    margin-left: 1%;
+}
+.procol4{
+    margin-left: 1%;
+}
+.productdiv{
+    padding: 0;
+}
+.g1row{
+    margin-left: 12%;
+}
+.g1{
+    height: 100%;
+    margin-left: 3%;
+}
+.g2{
+    height: 100%;
+    margin-left: 10%;
+}
+.g3{
+    height: 100%;
+}
+.g4{
+    height: 100%;
+    margin-left: -5%;
+}
+.vrow2{
+    margin-left: 0%;
+}
+.vrowcol{
+    margin-left: 2%;
+}
+.v5div{
+    border: 1px solid rgb(221, 219, 219);
+    background-color: rgb(250, 250, 250);
+    width: 117%;
+    margin-top: -17%;
+}
+.v5img{
+    height: 63px;
+    margin-left: 35%;
+    border: 1px solid rgb(221, 219, 219);
+}
+.v5txt{
+    margin-top: 5%;
+    margin-left: 25%;
+    font-size: 17px;
+    font-weight: 500;
+}
+.v5txt2{
+    margin-left: 13%;
+    margin-top: 0%;
+}
+.disc{
+    color: rgb(12, 175, 12);
+    margin-left: 5%;
+}
+.orgprice{
+    font-size: small;
+    margin-left: 2%;
+}
+.v5btn{
+    margin-left: 9%;
+    background-color: red;
+    color: white;
+    border: none;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    width: 84%;
+    height: 120%;
+}
+.v6txt{
+    margin-top: 5%;
+    margin-left: 20%;
+    font-size: 17px;
+    font-weight: 500;
+}
